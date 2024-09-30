@@ -4,5 +4,4 @@
 - ⚡ https://roadmap.sh/backend
 - 🌱 https://roadmap.sh/spring-boot
 - :octocat: https://roadmap.sh/software-architect
-
-- 
+- 🤖	https://roadmap.sh/sql
