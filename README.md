@@ -7,11 +7,13 @@ Welcome to my Java Development Journey repository! This space is dedicated exclu
 
 . 🛠️ Resources I'm Using
 
-- Java Roadmap 🐙
-- Backend Development Roadmap ⚡
-- Spring Boot Roadmap 🌱
-- Software Architecture Roadmap :octocat:
-- SQL Roadmap 🤖
+<ul>
+  <li>🐙 <a href="https://roadmap.sh/java" target="_blank">Java Roadmap</a></li>
+  <li>⚡ <a href="https://roadmap.sh/backend" target="_blank">Backend Development Roadmap</a></li>
+  <li>🌱 <a href="https://roadmap.sh/spring-boot" target="_blank">Spring Boot Roadmap</a></li>
+  <li>🐱 <a href="https://roadmap.sh/software-architect" target="_blank">Software Architecture Roadmap</a></li>
+  <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
+</ul>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor9770 github stats" />  
