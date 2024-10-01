@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="left"> Hi <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, My name is Higor. Welcome to my Github!<img 
+<h1 align="left"> Hi <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, My name is Higor! Welcome to my Github! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
                                                                                                                                                     
 . 👋 Hello, I'm Fowler Asch!
 Welcome to my Java Development Journey repository! This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
