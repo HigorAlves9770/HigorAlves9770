@@ -10,7 +10,7 @@ Estou acompanhando esses recursos incríveis para me guiar nesse aprendizado:
   - Roadmap de Arquitetura de Software :octocat:
   - Roadmap de SQL 🤖
 
-![My Octocat]("C:\Users\suele\Downloads\octocat-1727740416429.png")
+![My Octocat]("https://drive.google.com/file/d/1Y6ep6yu7BK50VAHifERGt1kb_KGCVlEk/view?usp=sharing")
 
 <div>  
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
