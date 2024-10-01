@@ -15,6 +15,19 @@ This space is dedicated exclusively to my exploration and mastery of the Java la
   <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
 </ul>
 
+Learning fundamentals:
+
+✅ Basic syntax | ✅ Data Types, Variables
+☑️ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ☑️ Exception Handling
+☑️ Datastructures | ☑️ POO | ☑️ Packages | ☑️ Files and APIs
+
+Getting deeper: 
+
+...
+
+
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor9770 github stats" />  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowlerAsch&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
