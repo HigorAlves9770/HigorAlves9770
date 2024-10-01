@@ -5,14 +5,13 @@
 . 👋 Hello, I'm Fowler Asch!
 Welcome to my Java Development Journey repository! This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
 
-. 🛠️ Recursos que estou utilizando
-Estou acompanhando esses recursos incríveis para me guiar nesse aprendizado:
+. 🛠️ Resources I'm Using
 
-  - Roadmap de Java 🐙
-  - Roadmap de Desenvolvimento Backend ⚡
-  - Roadmap de Spring Boot 🌱
-  - Roadmap de Arquitetura de Software :octocat:
-  - Roadmap de SQL 🤖
+- Java Roadmap 🐙
+- Backend Development Roadmap ⚡
+- Spring Boot Roadmap 🌱
+- Software Architecture Roadmap :octocat:
+- SQL Roadmap 🤖
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor9770 github stats" />  
