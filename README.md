@@ -5,7 +5,7 @@
 . 👋 Hello, I'm Fowler Asch!
 This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
 
-. 🛠️ Resources I'm Using
+. 🛠️ Resources I'm Using:
 
 <ul>
   <li>🐙 <a href="https://roadmap.sh/java" target="_blank">Java Roadmap</a></li>
