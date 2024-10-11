@@ -5,7 +5,7 @@
 . 👋 Hello, I'm Higor Cabral!
 This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
 
-my primary repository: https://github.com/higor9770 
+my primary github: https://github.com/higor9770 
 
 . 🛠️ Resources I'm Using:
 
