@@ -21,7 +21,7 @@ My repository of activities: https://github.com/FowlerAsch/Java
 Learning fundamentals:
 
 ✅ Basic syntax | ✅ Data Types, Variables
-☑️ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ☑️ Exception Handling
+✅ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ☑️ Exception Handling
 ☑️ Datastructures | ☑️ POO | ☑️ Packages | ☑️ Files and APIs
 
 Getting deeper: 
