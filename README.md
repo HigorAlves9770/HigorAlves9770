@@ -6,7 +6,8 @@
 This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
 
 My primary github: https://github.com/higor9770 <br>
-My repository of activities: https://github.com/FowlerAsch/Java
+My repository of activities: https://github.com/FowlerAsch/Java <br>
+My linkedin: https://www.linkedin.com/in/higor-cabrall/
 
 . 🛠️ Resources I'm Using:
 
@@ -44,8 +45,14 @@ Getting deeper:
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
 <div>
-  <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "higorcabral.alves@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/higor-cabrall/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
+<h2 >Criador</h2>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/higor9770"><img src="https://avatars.githubusercontent.com/u/104106899?s=400&u=6ae8d212fe0462f9af2b7b1227276bd78b9dcf51&v=4" width="100px;" alt="Homem branco com camisa preta em foto de perfil"/><br/><sub><b>Higor Cabral</b></sub></a></td>
+  </tr>
