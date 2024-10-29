@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 <h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my Java Development Journey repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
                                                                                                                                                     
 . 👋 Hello, I'm Higor Cabral!
 This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 My primary github: https://github.com/higor9770 <br>
 My repository of activities: https://github.com/FowlerAsch/Java <br>
@@ -50,6 +50,7 @@ Getting deeper:
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
 <h2 >Criador</h2>
 <table>
