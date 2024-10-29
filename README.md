@@ -23,7 +23,7 @@ Learning fundamentals:
 
 ✅ Basic syntax | ✅ Data Types, Variables
 ✅ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ☑️ Exception Handling
-☑️ Datastructures | ☑️ POO | ☑️ Packages | ☑️ Files and APIs
+☑️ Datastructures | ✅ POO | ☑️ Packages | ☑️ Files and APIs
 
 Getting deeper: 
 
