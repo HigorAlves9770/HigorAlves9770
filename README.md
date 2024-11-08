@@ -22,7 +22,7 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
 Learning fundamentals:
 
 ✅ Basic syntax | ✅ Data Types, Variables
-✅ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ☑️ Exception Handling
+✅ Conditionals | ☑️ Loops | ☑️ Functions | ☑️ working with Date/time | ✅ Exception Handling
 ☑️ Datastructures | ✅ POO | ☑️ Packages | ☑️ Files and APIs
 
 Getting deeper: 
