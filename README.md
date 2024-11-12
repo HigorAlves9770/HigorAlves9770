@@ -19,9 +19,6 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
   <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
 </ul>
 
-Getting deeper: 
-
-...
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor9770 github stats" />  
