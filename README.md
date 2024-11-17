@@ -1,7 +1,9 @@
-<h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my Java Development Journey repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
+<h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my Backend Development Journey repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
                                                                                                                                                     
 . 👋 Hello, I'm Higor Cabral!
-This space is dedicated exclusively to my exploration and mastery of the Java language. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of Java and backend development.
+This space is dedicated exclusively to my exploration and mastery of backend development. Here, you'll find my progress, projects, and learning resources as I dive deeper into the world of server-side technologies, APIs, databases, and more.
+
+I started learning java, then Spring Boot, and in the future I'll delve into javaScript, nodejs, react and javascript.  
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
