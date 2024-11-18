@@ -19,6 +19,8 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
   <li>🌱 <a href="https://roadmap.sh/spring-boot" target="_blank">Spring Boot Roadmap</a></li>
   <li>🐱 <a href="https://roadmap.sh/software-architect" target="_blank">Software Architecture Roadmap</a></li>
   <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
+  <li>🔎 <a href="https://roadmap.sh/api-design" target="_blank">API Design</a></li>
+  
 </ul>
 
 
