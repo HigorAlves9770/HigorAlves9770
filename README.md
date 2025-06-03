@@ -20,14 +20,17 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
   <li>🐱 <a href="https://roadmap.sh/software-architect" target="_blank">Software Architecture Roadmap</a></li>
   <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
   <li>🔎 <a href="https://roadmap.sh/api-design" target="_blank">API Design</a></li>
-  
 </ul>
 
-
+<br>
+<br>
+<br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Higor9770 github stats" />  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowlerAsch&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&theme=radical" alt="Higor9770 github stats" />  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowlerAsch&hide=html&layout=compact&theme=radical" />
 </div>
+<br>
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -41,15 +44,14 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
 
 <h3 align="left">💻 IDE's</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" height="40" alt="eclipse logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="40" alt="eclipse logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
 </div>
 
@@ -57,11 +59,16 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
 <br> 
 
 <h3 align="left"> 📱Contact</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="higorcabral.alves@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/higor-cabrall/" title="Linkedin">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/higor9770/" title="Instagram">
+</p>
 
 
 
