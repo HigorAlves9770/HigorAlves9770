@@ -1,9 +1,8 @@
 <h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
                                                                                                                                                     
 . 👋 Hello, I'm Higor Cabral!
-This space is dedicated to improving my knowledge in Data Science, Analytics, and starting my journey in full-stack development.
+This space is dedicated to improving my knowledge in Data Science, Analytics, and starting my journey in mobile development.
 
-I have started learning java, then Spring Boot, and in the future I'll delve into javaScript andnodejs.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -15,8 +14,7 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
 
 <ul>
   <li>🐙 <a href="https://roadmap.sh/java" target="_blank">Java Roadmap</a></li>
-  <li>⚡ <a href="https://roadmap.sh/backend" target="_blank">Backend Development Roadmap</a></li>
-  <li>🌱 <a href="https://roadmap.sh/spring-boot" target="_blank">Spring Boot Roadmap</a></li>
+  <li>🌱 <a href="https://roadmap.sh/backend" target="_blank">Backend Development Roadmap</a></li>
   <li>🐱 <a href="https://roadmap.sh/software-architect" target="_blank">Software Architecture Roadmap</a></li>
   <li>🤖 <a href="https://roadmap.sh/sql" target="_blank">SQL Roadmap</a></li>
   <li>🔎 <a href="https://roadmap.sh/api-design" target="_blank">API Design</a></li>
