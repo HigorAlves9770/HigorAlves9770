@@ -1,13 +1,12 @@
 <h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
                                                                                                                                                     
 . 👋 Hello, I'm Higor Cabral!
-This space is dedicated to improving my knowledge in Data Science, Analytics, and starting my journey in mobile development.
+This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way.
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 My primary github: https://github.com/higor9770 <br>
-My repository of activities: https://github.com/FowlerAsch/Java <br>
 My linkedin: https://www.linkedin.com/in/higor-cabrall/
 
 . 🛠️ Resources I'm Using:
