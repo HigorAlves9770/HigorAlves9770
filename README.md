@@ -4,7 +4,7 @@
 This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way.
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 My primary github: https://github.com/higor9770 <br>
 My linkedin: https://www.linkedin.com/in/higor-cabrall/
