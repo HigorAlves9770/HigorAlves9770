@@ -23,8 +23,8 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
 <br>
 <br>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FowlerAsch&theme=radical" alt="Higor9770 github stats" />  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FowlerAsch&hide=html&layout=compact&theme=radical" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HigorAlves9770&theme=radical" alt="Higor9770 github stats" />  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAlves9770&hide=html&layout=compact&theme=radical" />
 </div>
 <br>
 
