@@ -1,15 +1,14 @@
 <h1 align="left"><img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">Welcome to my repository! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="200px" width="200px" align="right">
                                                                                                                                                     
 . 👋 Hello, I'm Higor Cabral!
 Hello, I'm Higor Cabral! This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way. I am currently studying an MBA in Data Science and Artificial Intelligence and have a degree in Systems Analysis and Development from Senac, through the Embarque Digital program. I am improving my English through a daily course at Senac. I started at B1 level and still have one year left to complete the program. 
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="200px" width="200px" align="right">
-
 My primary github: https://github.com/higor9770 <br>
 My linkedin: https://www.linkedin.com/in/higor-cabrall/
-
-
 
 
 <br>
