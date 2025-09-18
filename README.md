@@ -5,11 +5,11 @@
                                                                                                                                                     
 <h3>. 👋 Hello, I'm Higor Cabral!</h3>
 
-This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way. I am currently studying an MBA in Data Science and Artificial Intelligence and have a degree in Systems Analysis and Development from Senac, through the Embarque Digital program. I am improving my English through a daily course at Senac. I started at B1 level and still have one year left to complete the program. 
+This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way. I am currently studying an MBA in Data Science and Artificial Intelligence and have a degree in Systems Analysis and Development from Senac, through the Embarque Digital program. I am improving my English through a daily course at Senac. I started at B1 level and still have one year left to complete the program.
 
 
 My primary github: https://github.com/higor9770 <br>
-My linkedin: https://www.linkedin.com/in/higor-cabrall/
+My linkedin: https: www.linkedin.com/in/higor-cabrall/
 
 
 <br>
