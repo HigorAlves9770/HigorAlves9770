@@ -14,7 +14,7 @@ My linkedin: https: www.linkedin.com/in/higor-cabrall/
 <br>
 <br>
 <br>
-<div align="center">  
+<div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HigorAlves9770&theme=radical" alt="HigorAlves9770githubstats" />  
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAlves9770&hide=html&layout=compact&theme=radical" />
 </div>
