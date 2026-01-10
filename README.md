@@ -7,7 +7,6 @@
 
 This space is dedicated to exploring new technologies, coding projects, and sharing what I learn along the way. I am currently studying an MBA in Data Science and Artificial Intelligence and have a degree in Systems Analysis and Development from Senac, through the Embarque Digital program. I am improving my English through a daily course at Senac. I started at B1 level and still have one year left to complete the program.
 
-
 My primary github: https://github.com/higor9770 <br>
 My linkedin: https: www.linkedin.com/in/higor-cabrall/
 
@@ -16,13 +15,13 @@ My linkedin: https: www.linkedin.com/in/higor-cabrall/
 <br>
 <br>
 <div align="center">  
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HigorAlves9770&theme=radical" alt="Higor9770 github stats" />  
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HigorAlves9770&theme=radical" alt="HigorAlves9770 github stats" />  
   <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAlves9770&hide=html&layout=compact&theme=radical" />
 </div>
 <br>
 
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools<img align="center" src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50"></h3>
 
 ###
 
