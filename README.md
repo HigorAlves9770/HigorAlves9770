@@ -15,10 +15,15 @@ My linkedin: https://www.linkedin.com/in/higor-cabrall/
 <br>
 <br>
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=HigorAlves97700&theme=radical" alt="HigorAlves9770githubstats" />  
-  <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAlves9770&hide=html&layout=compact&theme=radical" />
+  <img height="170px"
+       src="https://github-readme-stats.vercel.app/api?username=HigorAlves9770&theme=radical"
+       alt="Higor Alves GitHub Stats" />
+
+  <img height="190px"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=HigorAlves9770&hide=html&layout=compact&theme=radical" />
 </div>
 <br>
+
 
 
 <h3 align="left">🛠 Language and tools<img align="center" src="https://media.giphy.com/media/FX6GFqd1q4D5G5QBBf/giphy.gif" width = "50"></h3>
